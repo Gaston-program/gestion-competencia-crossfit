@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Sistema de Gestión de Competencias: "The Crown" 2026
+# 🏋️‍♂️ Sistema de Gestión de Competencias: "LA ROCA" 2026
 
 ![Diagrama del Sistema](diagrama.png)
 
