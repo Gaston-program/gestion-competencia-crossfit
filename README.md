@@ -25,4 +25,4 @@ El script incluye una consulta avanzada que vincula las tablas de atletas con su
 SELECT a.nombre_completo, c.nombre_categoria 
 FROM Atletas a
 JOIN Categorias c ON a.id_categoria = c.id_categoria;
-Contacto: [Tu Nombre] - Estudiante de Sistemas @ UTN
+Contacto: Gaston Maristany - Estudiante de Sistemas @ UTN
