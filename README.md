@@ -1,5 +1,7 @@
 # 🏋️‍♂️ Sistema de Gestión de Competencias: "The Crown" 2026
 
+![Diagrama del Sistema](diagrama.png)
+
 ## 📋 Descripción del Proyecto
 Este proyecto consiste en el diseño y desarrollo de una base de datos relacional para la gestión de atletas y categorías en competencias de Crossfit de alto rendimiento. 
 
